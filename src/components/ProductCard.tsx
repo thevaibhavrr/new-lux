@@ -100,7 +100,7 @@ const ProductCard = ({
 
         <Link
           to={`/product/${_id}`}
-          className="block w-full text-center btn-luxury-outline py-2 md:py-3 text-sm font-medium"
+          className="block w-full text-center btn-luxury-outline py-2 md:py-3 text-xs md:text-sm font-medium"
         >
           View Details
         </Link>
